@@ -1,5 +1,6 @@
 import "./app.css";
-import "./assets/images/hero.jpg";
+import hero from './hero.jpg';
+import base from './assets/images/bg.jpg';
 
 function App() {
     return ( 
@@ -23,8 +24,9 @@ function App() {
                     <a className='sign' href="#">Create Nfts</a>
                 </div>
                 <div className="hero-right">
-                    <img src="./assets/images/hero.jpg" alt="" />
+                    <img src= {hero} className="hero-image" alt="hero-image" />
                 </div>
+        
             </div>
         </div>
     );
