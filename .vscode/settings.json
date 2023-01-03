@@ -1,0 +1,14 @@
+{
+  "editor.formatOnSaveMode": "file",
+  "html.format.preserveNewLines": false,
+  "html.format.enable": false,
+  "json.format.enable": false,
+  "javascript.format.enable": false,
+  "javascript.format.insertSpaceAfterKeywordsInControlFlowStatements": false,
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingEmptyBraces": false,
+  "javascript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": false,
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": false,
+  "javascript.format.insertSpaceAfterSemicolonInForStatements": false,
+  "javascript.format.insertSpaceBeforeAndAfterBinaryOperators": false,
+  "javascript.format.insertSpaceAfterCommaDelimiter": false
+}
